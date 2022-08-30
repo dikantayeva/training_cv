@@ -45,6 +45,7 @@ describe("Spinning words",()=>{
 * Huawei Seeds for the Future
 * Coursera
 * Splunk
+
 ![Splunk Certification](splunk.PNG "certificate")
 ********************
 ### Languages:
