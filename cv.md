@@ -5,8 +5,11 @@
 ********************
 ### Contact information:
 **Phone:** +7-708-309-08-19
+
 **E-mail:** kanntayevad@gmail.com
+
 **Telegram:** @Riccardina
+
 [GitHub](https://github.com/dikantayeva "GitHub")
 ********************
 ### Briefly About Myself:
@@ -41,6 +44,8 @@ describe("Spinning words",()=>{
 * HTML and CSS Tutorials on the w3schools;
 * Huawei Seeds for the Future
 * Coursera
+* Splunk
+![Splunk Certification](splunk.PNG "certificate")
 ********************
 ### Languages:
 * English - B2+
